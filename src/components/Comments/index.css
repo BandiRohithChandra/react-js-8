@@ -1,0 +1,43 @@
+/* Write your CSS here */
+
+.bg-container {
+  padding: 40px;
+}
+
+.profile-section-container {
+  display: flex;
+  justify-content: space-around;
+  padding: 30px;
+}
+.main-heading {
+  font-size: 40px;
+}
+
+.comments {
+  height: 30vh;
+}
+
+.inputContainer {
+  display: flex;
+  flex-direction: column;
+  padding: 40px;
+}
+
+.button {
+  background-color: #0284c7;
+  color: #ffffff;
+  margin: 10px;
+}
+
+.count {
+  width: 25px;
+  color: #ffffff;
+  background-color: #0b69ff;
+  text-align: center;
+  padding: 5px;
+}
+
+.count-container {
+  display: flex;
+  
+}
